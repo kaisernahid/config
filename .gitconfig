@@ -1,0 +1,11 @@
+[user]
+	name = Kaiser Md Nahiduzzaman
+	email = kaisernahid@gmail.com
+[core]
+	autocrlf = false
+[alias]
+	hist = log --oneline --abbrev-commit --graph --decorate --color --branches --tags --remotes
+[merge]
+	conflictstyle = diff3
+[status]
+	showuntrackedfiles = all
